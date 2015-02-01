@@ -1,2 +1,2 @@
 # WyncodeHomework
-#Rafactoring a mx method for Wyncode homework.
+Refactoring a mx method for Wyncode homework.
